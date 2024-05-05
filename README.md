@@ -32,10 +32,9 @@ Dance-Dance-Fingerlution is an interactive game project that integrates physical
 - Looping and Conditional Statements: Utilized to manage game flow, sequence generation, and player input validation.
 
 ### Game Demonstration
-Demonstration of how the buttons work:
-![Layout4](files/layout.mp4)
 Demonstration of sample game round: 
-![Layout5](files/Dance-Dance-Fingerlution.mp4)
+
+![Game](files/Dance-Dance-Fingerlution.gif)
 
 ### Future Improvements:
 - Implementing a mechanism to run the game code automatically upon Raspberry Pi boot-up.
