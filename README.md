@@ -10,6 +10,12 @@ Dance-Dance-Fingerlution is an interactive game project that integrates physical
 - **Jumper Leads:** Connect various components on the breadboard.
 - **Headphones:** Output audio feedback to the player.
 
+## Layout of the hardware components:
+
+![Layout1](files/image1.JPEG)
+![Layout2](files/image2.JPEG)
+![Layout3](files/image3.JPEG)
+
 ### Game Logic:
 1. Randomized Pattern Generation: The Raspberry Pi generates a random sequence of button presses represented by LED lights.
 2. Player Interaction: The player must replicate the sequence by pressing the corresponding buttons.
