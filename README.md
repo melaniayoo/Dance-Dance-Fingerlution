@@ -10,7 +10,7 @@ Dance-Dance-Fingerlution is an interactive game project that integrates physical
 - **Jumper Leads:** Connect various components on the breadboard.
 - **Headphones:** Output audio feedback to the player.
 
-## Layout of the hardware components:
+### Layout of the hardware components:
 
 ![Layout1](files/image1.JPEG)
 ![Layout2](files/image2.JPEG)
@@ -30,6 +30,12 @@ Dance-Dance-Fingerlution is an interactive game project that integrates physical
 - Audio Playback: Sound effects are played using the `pygame.mixer` module.
 - Button Press Detection: GPIO interrupts are used to detect button presses.
 - Looping and Conditional Statements: Utilized to manage game flow, sequence generation, and player input validation.
+
+### Game Demonstration
+Demonstration of how the buttons work:
+![Layout4](files/layout.mp4)
+Demonstration of sample game round: 
+![Layout5](files/Dance-Dance-Fingerlution.mp4)
 
 ### Future Improvements:
 - Implementing a mechanism to run the game code automatically upon Raspberry Pi boot-up.
